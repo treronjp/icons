@@ -1,0 +1,26 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_881_48)">
+<g filter="url(#filter0_f_881_48)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 119.984L64 119.992L64.0159 120V119.984Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64 119.992L63.984 119.984V120L64 119.992Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 119.984H64.0319V120L64.0159 119.984Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 120L64.0319 119.984H64.0159V120Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 119.984L64 119.992L63.984 119.984C21.6748 96.9817 11.1772 72.6755 8 31.0137C22.9907 26.4351 32.4082 20.9064 35.4763 8H92.5396C95.6078 20.9064 105.025 26.4351 120.016 31.0137C116.839 72.6755 106.341 96.9817 64.0319 119.984H64.0159ZM63.984 25.3881H47.198C44.2898 35.4308 35.2065 38.8836 27 42C33.2092 75.2277 46.0963 87.1289 63.984 99.5231V25.3881Z" fill="#3694FF"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 119.984L64 119.992L64.0159 120V119.984Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64 119.992L63.984 119.984V120L64 119.992Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 119.984H64.0319V120L64.0159 119.984Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 120L64.0319 119.984H64.0159V120Z" fill="#3694FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0159 119.984L64 119.992L63.984 119.984C21.6748 96.9817 11.1772 72.6755 8 31.0137C22.9907 26.4351 32.4082 20.9064 35.4763 8H92.5396C95.6078 20.9064 105.025 26.4351 120.016 31.0137C116.839 72.6755 106.341 96.9817 64.0319 119.984H64.0159ZM63.984 25.3881H47.198C44.2898 35.4308 35.2065 38.8836 27 42C33.2092 75.2277 46.0963 87.1289 63.984 99.5231V25.3881Z" fill="#3694FF"/>
+</g>
+<defs>
+<filter id="filter0_f_881_48" x="0" y="0" width="128.016" height="128" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur_881_48"/>
+</filter>
+<clipPath id="clip0_881_48">
+<rect width="128" height="128" fill="white"/>
+</clipPath>
+</defs>
+</svg>
